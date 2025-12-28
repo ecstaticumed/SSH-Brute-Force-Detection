@@ -38,8 +38,6 @@ The project is designed for **Information Security / Cyber Security coursework**
 
 ---
 
----
-
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Install and Enable SSH
@@ -72,9 +70,7 @@ sudo python3 ssh_bruteforce_realtime.py
 - Firewall-level IP blocking
 ```
 ## 👤 Author
-```
+
 Umed Ali
 BS Cyber Security
 SMI University Karachi
-```
-## 🧩 System Architecture
